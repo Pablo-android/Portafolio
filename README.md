@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# Portafolio
+Este es el portafolio, para mostrar lo que puedo realizar
+A qui es donde estare agregando lo que se hacer.
+Estare subiendo las versiones de esta y los avances 
+>>>>>>> 893f6a85a5830e18fb51070f3a1bbe989f04ed1b

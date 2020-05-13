@@ -9,9 +9,10 @@ import { BrowserRouter } from 'react-router-dom'; */
 function App() {
   return (
     <div class="pantalla">
+      {/* Navegación */}
       <div class="container">
         <nav class="nav-main">
-           <a href="/">  <img src={ Logo } class="logo"></img> </a>
+           <a href="/">  <img src={ Logo } class="logo"> </img> </a>
           <ul class="nav-menu">
             <li>
               <a href="/">Pablo</a>
@@ -32,10 +33,8 @@ function App() {
         {/* SHOWCASE */}
       <header class="showcase">
         <h2>Hola</h2>
-        <p>Lorem20</p>
+        <p>Irure enim exercitation ea ullamco amet sit quis occaecat ullamco culpa nisi tempor nulla.</p>
         <a href="#" class="btn">Leer mas</a>
-
-
       </header>
 
       {/* LOS APLICATIVOS */}
